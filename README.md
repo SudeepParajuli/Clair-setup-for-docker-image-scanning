@@ -2,6 +2,7 @@
 # Installation 
 
 ```
+cd clair-container-scanner-config
 docker-compose up 
 ```
 
