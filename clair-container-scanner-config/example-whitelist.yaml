@@ -1,0 +1,8 @@
+# sample whitelist
+generalwhitelist:
+  CVE-2017-6055: XML
+  CVE-2017-5586: OpenText
+images:
+  ubuntu:
+    CVE-2017-5230: Java
+    CVE-2017-5230: XSX
